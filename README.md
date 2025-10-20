@@ -2,6 +2,8 @@
 
 Este projeto implementa um sistema multiagente usando `CrewAI` e os modelos da OpenAI para automatizar a coleta de dados de cartuchos de tinta HP em grandes sites de varejo. O sistema é capaz de buscar produtos, extrair informações relevantes e consolidar os dados em um arquivo `.csv`.
 
+Link do Colab: https://colab.research.google.com/drive/1kwhsxvu1RbMSeMq1vjB3GGyhMQfl7Xkp#scrollTo=e8KY009pDUSO
+
 ---
 
 ## 1. Decisões de Arquitetura e Engenharia
